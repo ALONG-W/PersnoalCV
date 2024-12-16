@@ -1,5 +1,5 @@
 # PersnoalCV
-This is my first persnoal CV project.
+This is my 3rd persnoal CV project.
 
 # How to run
 
