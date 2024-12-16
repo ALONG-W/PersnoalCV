@@ -1,2 +1,4 @@
-# 忽略 .vscode 文件
-*.vscode
+/node_modules
+/build
+.DS_Store
+.vscode/
